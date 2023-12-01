@@ -1,0 +1,7 @@
+C:\Users\elram\source\repos\listassimpleprac\listassimpleprac\bin\Debug\listassimpleprac.exe.config
+C:\Users\elram\source\repos\listassimpleprac\listassimpleprac\bin\Debug\listassimpleprac.exe
+C:\Users\elram\source\repos\listassimpleprac\listassimpleprac\bin\Debug\listassimpleprac.pdb
+C:\Users\elram\source\repos\listassimpleprac\listassimpleprac\obj\Debug\listassimpleprac.csproj.AssemblyReference.cache
+C:\Users\elram\source\repos\listassimpleprac\listassimpleprac\obj\Debug\listassimpleprac.csproj.CoreCompileInputs.cache
+C:\Users\elram\source\repos\listassimpleprac\listassimpleprac\obj\Debug\listassimpleprac.exe
+C:\Users\elram\source\repos\listassimpleprac\listassimpleprac\obj\Debug\listassimpleprac.pdb
